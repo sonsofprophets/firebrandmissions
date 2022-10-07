@@ -1,0 +1,23 @@
+
+
+body {
+  background-color: #222;
+}
+
+.logo-container {
+  text-align: center;
+  margin: 200px auto;
+  max-width: 400px;
+}
+
+.logo-container a, .logo-container a:hover, .logo-container a:visited, .logo-container a:focus, .logo-container a:active {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: inherit;
+  margin-top: 100px;
+}
+
+.logo-container img {
+  width: 100%;
+}
